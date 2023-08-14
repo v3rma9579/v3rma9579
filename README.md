@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM VERMA</h1>
 <h3 align="center">Currenlty pursuing my MCA from BIT MESRA, Ranchi.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v3rma9579" alt="v3rma9579" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **DSA using JAVA.**
 
 - 👨‍💻 All of my projects are available at [github.com/v3rma9579](github.com/v3rma9579)
