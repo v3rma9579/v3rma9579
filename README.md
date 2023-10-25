@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM VERMA</h1>
-<h3 align="center">Currently pursuing my MCA from BIT MESRA, Ranchi.</h3>
 
 - 🌱 I’m currently learning **DSA using JAVA.**
 
